@@ -14,7 +14,7 @@ A simple website where payment gateway is integrated.
 Tech Stack
 Languages Used: HTML
 
-Payement: RazorPay
+Payment: RazorPay
 
 Screenshots:
 homepage-
